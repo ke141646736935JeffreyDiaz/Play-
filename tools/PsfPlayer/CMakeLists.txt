@@ -24,3 +24,5 @@ else()
 		add_subdirectory(Source/ui_qt/)
 	endif()
 endif()
+
+# Update: 2025-10-10
